@@ -24,4 +24,4 @@ The game can be stylized and customized by editing the `styles.css` file and the
 
 ## Author
 
-* **Rishi** - [Your GitHub Profile](https://github.com/RishiM1408)
+* **Rishi** - [Profile](https://github.com/RishiM1408)
